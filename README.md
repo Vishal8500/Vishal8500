@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vishal8500&show_icons=true&theme=neon" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal8500&layout=compact&langs_count=8&card_width=400" />
   </a>
 </div>
