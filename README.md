@@ -7,6 +7,11 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vishal8500&show_icons=true&theme=neon" />
   </a>
   <a>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal8500&layout=compact&langs_count=8&card_width=400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal8500&theme=neon" alt="GitHub Streak" height="150"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal8500&theme=github-compact" alt="Activity Graph"/>
+</p>
+
