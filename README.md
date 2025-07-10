@@ -11,7 +11,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal8500&hide_progress=true&theme=neon" alt="Top Langs" height="150"/>
+  </a>
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal8500&theme=merko&area=true&bg_color=000000" alt="Activity Graph"/>
 </p>
-
