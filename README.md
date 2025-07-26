@@ -13,7 +13,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal8500&hide_progress=true&theme=neon" alt="Top Langs" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal8500&size_weight=0&count_weight=1.0&hide=perl,matlab,shell,makefile&hide_progress=true&theme=neon" alt="Top Langs" height="150"/>
   </a>
 </div>
 
