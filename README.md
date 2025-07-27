@@ -55,7 +55,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal8500&theme=merko&area=true&bg_color=000000" alt="Activity Graph"/>
 </p>
 
-<a href="" onclick="location.reload();">
+<a href="https://github.com/Vishal8500">
   <img src="https://komarev.com/ghpvc/?username=Vishal8500&label=Profile+Views&color=blue&style=plastic" alt="Profile Views"/>
 </a>
 
