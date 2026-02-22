@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Vishal8500/Vishal8500/main/assets/name.svg" alt="Vishal M" />
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Full+Stack+Learner;Hackathon+Builder" />
+</p>
 
 <div align="center">
   <a>
